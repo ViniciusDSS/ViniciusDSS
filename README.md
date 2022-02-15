@@ -1,7 +1,7 @@
 ### Olá.👋
 
 - Estudante de Análise e Desenvolvimento de Sistemas.
-- Estudando HMLT5, CSS, JavaScrip e JAVA.
+- Estudando HMLT5, CSS, JavaScript e JAVA.
 - Linkedin: https://www.linkedin.com/in/vinicius-domingues-silva-908723222/
 
 <div align="center">
